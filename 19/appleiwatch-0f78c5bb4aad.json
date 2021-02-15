@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "appleiwatch",
+  "private_key_id": "0f78c5bb4aadb7eb678eca7eab07ceaca3789f8c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCleZQpJRSpyrMz\nTRFP9Tjjk8IdeOI25qNUpUwF+iiulAfFX3j0VpGcjq/J4lMiV8VjAvssHO/F/lJP\n7ShGuW/7bTpTyLHLo293qNHKPAJR6LuiV8IsS+mYLiUD+sApHAqk3NYx3wrjiHAY\nwrkf9O5ePiFYsqf0N/SVbTE2SN0MRMv7htscXRwtJNwxu0nP7N2IbqdTpRUHqv28\n0yNg2cQHp48xjL2CADhsP01jprSdw8UpcqEXmFdMFfRGeo7CXx22mrBfwdfy5bVr\nuxs18Ge2TdbCsifdmpnF1lNLHJwN6T51UkXZSNh+8QpcjlBFq9Kpww4Jwze0rtBl\n3wtjGloTAgMBAAECggEAA+vSn/r592APSQrtexiThYkN04b2zVg/zJSyLX4VErX9\nTScLBbc7chtLfRw43hp4WfVLIGt7HxT8vFohVzOzvKCE/lFGLU4tKQe+GO29HFXI\nhHtR5ZzS50FIrUR240J/2hJFnR7s8iFcjqmmm2RBdchBIAnzwuzEhfn1bZTicBTz\nfFxHePjLrhFj/QVL60woiG6PpzYNJpBafM5dvPqHbDZlWtQ0ET8ZYUc3GTbXbmxd\nBFRXa/Q/3OwcroofJrththE7DwZPjc5f5BQ4pMfB08zECRxxHnx3uHCrjkdS3H5l\n/elYqhtfAqSQL+BsE2Bh8mhbLyRZl9a2fmtARoJ92QKBgQDdxfkcb7FVh4DDUfTz\nELG8sgMdTUzovZIK30q2mqBVaPE+NMKv8oscasEwUMJzBZ7xyNdOnFCJYFhGtYgM\nRGPfH9mvSv5NM8TGS8HMShQdvWNBciW9JR8y3B/Giec0IMUs24ntsjaBMukG85VT\nccL4CU4Gxn6sS+PFRS1QQmjK9wKBgQC/A1DH3UFYY9t5kZeyy78HrywPlaQbC1/S\nh6yZuCswhF4IQUWJcpUmflhNd3SNNpdRiEZN+2rH9U5PVXi+BjfVWHQAi2OsWuqW\nCQrTyK7bb6t5zmjF4+dW8D4NAqu9WD7bpW4+22c3JoR/TITyT6Fsi/d8YiuIPwmg\n8pSasXamxQKBgDII8nUp9fZ4BeMLYJpeT9tkxjMcN5fi/Uoaqr6cEER00sjYGnyb\n2irlIwUFk3lj8UJXr8v6lGkKJaB+YF10KJw0kWZtIwbEAUdD3Et9AyDak8Q2PrF3\n6JwO8dRXVKR8KEBAn9PS+10W4WBCIJSc/AH+B26b5gR1csQVIW4ULZRtAoGAC4kx\nucBdD++H88GdPckcUmR77r0E2jVHpjlXbTk4Mofr/eejQXfQFjEPOC58tYKUhPIL\n/O2wNz9TaWsqDZ/mg1YCO34vmNssy77kDoJSPSJzYrnajgkDkbaUqMh+gsLvmOhW\nzikGBMiou99tMA0rHJkfaz2qj2HvPO8plmYdWlkCgYEAh5o5IyuFwPvJ2NdLqPKM\njkuCkS2pnzc/gEfkHXA6Bgd7wYkSP5/hqTjJgUPf+X1667gMyFDnU0FJ9NNTjKd1\nt96aOz4YCWCSi1Ty4oSeAHzWIbEeI3uDoyPD2o4b1Lzj9cs7jx0IhW4KXzcDa+wz\nbmiTt+WS8wv0tgSNrTiB37U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "appleiwatch@appleiwatch.iam.gserviceaccount.com",
+  "client_id": "101275081861913188661",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/appleiwatch%40appleiwatch.iam.gserviceaccount.com"
+}
